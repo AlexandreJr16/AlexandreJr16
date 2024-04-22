@@ -11,6 +11,6 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=AlexandreJr16&show_icons=true&theme=transparent&locale=pt-br&text_bold=true"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreJr16&layout=compact&theme=transparent"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreJr16&layout=compact&theme=transparent&locale=pt-br&text_bold=true"></td>
   </tr>
 </table>
