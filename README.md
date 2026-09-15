@@ -1,105 +1,71 @@
-<h1 align="left">Hello, guys. I'm Alexandre Jr 👋</h1>
+### Alexandre Pereira
 
-###
+Estudante de Ciência da Computação na UFAM (Manaus-AM), 4º período.
 
-<p align="left">📍 Student at Federal University of Amazonas (UFAM) - Computer Science (2025 - Present)<br>📍 Graduated at Fundação Matias Machline - Computing Course (2022 - 2024)</p>
+## Pesquisa
 
-###
+Pesquisador PIBIC (2025–2027) no grupo **AlgoX** do Instituto de Computação (IComp/UFAM),
+orientação da Profa. Rosiane de Freitas Rodrigues. Trabalho com síntese automática de
+heurísticas admissíveis para busca A\* em pathfinding, combinando algoritmo genético + LLM +
+verificação formal com ESBMC.
 
-<h2 align="left">About me</h2>
+O primeiro ciclo (2025–2026) gerou um artigo aceito no
+[**WPerformance (CSBC 2026)**](https://sol.sbc.org.br/index.php/wperformance/article/view/43174).
+Código, dados e o relatório final estão em
+[`Pathfinding-em-Videogames-PIBIC_25-26-`](https://github.com/AlexandreJr16/Pathfinding-em-Videogames-PIBIC_25-26-).
 
-###
+## Freelance
 
-<p align="left">✨ Duct tape programmer since 2006<br>📚 I'm currently learning Spring Boot<br>🎯 Goal: To be the best professional I can be<br>🎲 Fun fact: I might have deleted a production database recently...</p>
+Desenvolvo sob demanda via **LMS Tecnologia**, sem vínculo de estágio formal. Já entreguei
+sistemas em produção para dois clientes:
 
-###
+- Dashboard operacional para a **TCL SEMP**
+- Sistema de gestão para a **Melo Autopeças**
 
-<h3 align="left">Main  stacks</h3>
+Stack: Next.js, TypeScript, PostgreSQL.
 
-###
+## Competição
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+2º lugar na sede Manaus da Maratona de Programação da SBC (ICPC aplicado no Brasil).
 
-###
+## Open source
 
-<h3 align="left">Secondary Stacks  (learning how to write 'proper' backend code)</h3>
+Um PR aceito no [DesignLiquido](https://github.com/DesignLiquido) (linguagem Delégua) — uma
+good first issue, não uma contribuição contínua.
 
-###
+## Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
+C++ (pipeline de pesquisa), Python, TypeScript, Next.js, Nest.js, PostgreSQL, Prisma, Docker.
 
-###
+Já usei Ruby, PHP, C#, Swift e outras — ficaram no currículo técnico, não no dia a dia.
 
-<h3 align="left">Fluent in Greetings</h3>
+---
 
-###
+<details>
+<summary><b>English</b></summary>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="40" alt="labview logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-</div>
+Computer Science student at UFAM (Manaus, Brazil), currently in my 4th semester.
 
-###
+**Research.** PIBIC undergraduate researcher (2025–2027) at the AlgoX group, Instituto de
+Computação (IComp/UFAM), advised by Prof. Rosiane de Freitas Rodrigues. I work on automatic
+synthesis of admissible heuristics for A\* pathfinding, combining genetic algorithms, LLMs, and
+formal verification with ESBMC. The first cycle (2025–2026) produced a paper accepted at
+[**WPerformance (CSBC 2026)**](https://sol.sbc.org.br/index.php/wperformance/article/view/43174)
+— code, data and the final report are in
+[`Pathfinding-em-Videogames-PIBIC_25-26-`](https://github.com/AlexandreJr16/Pathfinding-em-Videogames-PIBIC_25-26-).
 
-<p align="left">My proficiency in these ends exactly one line after the main() function is declared. I know just enough to be dangerous... mostly to myself.</p>
+**Freelance.** I build production systems on demand through LMS Tecnologia (not a formal
+internship) — an operations dashboard for TCL SEMP and a management system for Melo Autopeças.
+Stack: Next.js, TypeScript, PostgreSQL.
 
-###
+**Competitive programming.** 2nd place, Manaus site of the SBC Programming Marathon (Brazil's
+ICPC).
+
+**Open source.** One accepted PR on [DesignLiquido](https://github.com/DesignLiquido) (the
+Delégua language) — a single good-first-issue, not ongoing contribution.
+
+**Stack.** C++ (research pipeline), Python, TypeScript, Next.js, Nest.js, PostgreSQL, Prisma,
+Docker. I've also worked with Ruby, PHP, C#, Swift and others — not part of my daily stack
+anymore.
+
+</details>
