@@ -8,8 +8,8 @@ Fundação Matias Machline, onde tive contato com várias stacks que hoje fazem 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,ts,nextjs,nestjs,postgres,prisma,docker,linux&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,py,ts,nextjs,nestjs,postgres,prisma,docker,linux&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cpy%2Cts%2Cnextjs%2Cnestjs%2Cpostgres%2Cprisma%2Cdocker%2Clinux&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cpy%2Cts%2Cnextjs%2Cnestjs%2Cpostgres%2Cprisma%2Cdocker%2Clinux&theme=light">
   <img src="https://skillicons.dev/icons?i=cpp,py,ts,nextjs,nestjs,postgres,prisma,docker,linux&theme=dark" alt="C++, Python, TypeScript, Next.js, Nest.js, PostgreSQL, Prisma, Docker, Linux" />
 </picture>
 
